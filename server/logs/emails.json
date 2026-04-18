@@ -1,0 +1,58 @@
+[
+  {
+    "timestamp": "2026-04-12T15:59:01.998Z",
+    "to": "salman913526@gmail.com",
+    "subject": "Password reset token",
+    "message": "You are receiving this email because you (or someone else) has requested the reset of a password. Please make a PUT request to: \n\n http://localhost:5173/resetpassword/dccc88eb7e932efc42d9b6b490c6cb72e7d16f11",
+    "html": null
+  },
+  {
+    "timestamp": "2026-04-12T18:55:26.571Z",
+    "to": "taufiq@gmail.com",
+    "subject": "New Booking Request",
+    "message": "You have a new booking request from Salman for Physics. Please check your dashboard to confirm.",
+    "html": null
+  },
+  {
+    "timestamp": "2026-04-12T18:55:45.115Z",
+    "to": "salman913526@gmail.com",
+    "subject": "Booking Confirmed",
+    "message": "Your booking status has been updated to \"confirmed\" by the Tutor.",
+    "html": null
+  },
+  {
+    "timestamp": "2026-04-12T19:03:37.170Z",
+    "to": "salman913526@gmail.com",
+    "subject": "Booking Completed",
+    "message": "Your booking status has been updated to \"completed\" by the Tutor.",
+    "html": null
+  },
+  {
+    "timestamp": "2026-04-12T19:22:32.094Z",
+    "to": "taufiq123@gmail.com",
+    "subject": "New Booking Request",
+    "message": "You have a new booking request from Test User for Mathematics. Please check your dashboard to confirm.",
+    "html": null
+  },
+  {
+    "timestamp": "2026-04-13T03:24:34.022Z",
+    "to": "test@example.com",
+    "subject": "Booking Confirmed",
+    "message": "Your booking status has been updated to \"confirmed\" by the Tutor.",
+    "html": null
+  },
+  {
+    "timestamp": "2026-04-13T04:35:26.566Z",
+    "to": "habib@gmail.com",
+    "subject": "New Booking Request",
+    "message": "You have a new booking request from Salman for Chemistry. Please check your dashboard to confirm.",
+    "html": null
+  },
+  {
+    "timestamp": "2026-04-13T04:36:02.013Z",
+    "to": "salman9135@gmail.com",
+    "subject": "Booking Confirmed",
+    "message": "Your booking status has been updated to \"confirmed\" by the Tutor.",
+    "html": null
+  }
+]
